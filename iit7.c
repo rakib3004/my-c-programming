@@ -11,10 +11,10 @@ int main()
     e=d-c;
     a=d;
     b=(c*a)-8;
-    printf("kurmi tola high school is %d\n",c);
-    printf("notre dame college is %d\n",d);
-    printf("university of dhaka is %d\n",e);
-    printf("khilkhet pathagar is %d\n",a);
-    printf("biswa sahitto kendro is %d\n",b);
+    printf("Kurmitola High School is %d\n",c);
+    printf("Notre Dame College is %d\n",d);
+    printf("University of Dhaka is %d\n",e);
+    printf("Khilkhet Pathagar is %d\n",a);
+    printf("Biswa Sahitto Kendro is %d\n",b);
     return 0;
 }
