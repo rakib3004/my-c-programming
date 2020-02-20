@@ -10,7 +10,7 @@ int main()
     printf("enter width :");
     scanf("%d",&width);
 
-     printf("area is %d",len*width);
+     printf("Area is %d",len*width);
 
      return 0;
 }
