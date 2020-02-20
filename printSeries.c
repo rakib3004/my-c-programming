@@ -1,8 +1,9 @@
 #include<stdio.h>
 
-int main(void)
+int main()
 
 {
+
 
     int i;
     printf("Enter an integer:");
@@ -10,6 +11,7 @@ int main(void)
 
     for( ; i>=0;i--)
         printf("%d\n",i);
+
 
     return 0;
 }
