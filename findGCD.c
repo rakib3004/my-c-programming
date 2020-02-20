@@ -6,15 +6,12 @@ int main()
     printf("enter the value of a&b:");
     scanf("%f%f",&a,&b);
     if(a==0)
-
     gcd=a;
-
     else if (b==0)
         gcd=b;
     else {
         while(b!=0)
         {
-
             t=b;
             b=a%b;
             a=t;
