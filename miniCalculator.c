@@ -1,14 +1,12 @@
 #include<stdio.h>
 
 int main(void)
-
 {
-
     int a,b;
     char ch;
 
     printf("Do you want to:\n");
-    printf("add,.subtract,multiply or divide");
+    printf("add,subtract,multiply or divide");
     printf(" enter first letter: ");
     ch=getchar();
     printf("\n");
