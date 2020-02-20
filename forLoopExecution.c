@@ -3,7 +3,7 @@
 int main(void)
 {
     int i;
-    for(i=0;i<1229; )
+    for(i=0;i<=1229; )
     {
 
         printf("%d\n",i);
