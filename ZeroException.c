@@ -19,7 +19,7 @@ int main(void)
         {
         printf("%d\n",i/j);
         }
-        if(j==0)
+        if(j==0)//nothing can divided by zero .
 
             {
                 printf("This is not possible");
