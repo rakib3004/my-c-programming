@@ -1,4 +1,7 @@
 #include<stdio.h>
+
 int main()
 {
-}   7898
+  return 0;
+  
+}  
