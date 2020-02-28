@@ -3,6 +3,7 @@
       int main()
       {
           int total,i,j;
+//here we use do while loop to match two number 
 
           total=0;
           do
