@@ -1,7 +1,7 @@
 
 #include<stdio.h>
 int main()
-
+// if a^2 + b^2 is less than 32 than it's works .
 {
     int a,b,sum;
    printf("enter the value of a&b:");
