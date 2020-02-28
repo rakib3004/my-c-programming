@@ -13,6 +13,7 @@ int main()
 
       i=j+1;
     printf("Total is : %d\n",i);
+//summation of 1 to 100
     }
 
     return 0;
