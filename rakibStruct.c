@@ -8,6 +8,7 @@ struct rakib {
 };
 int main()
 {
+  // struct methods use for get sum of two number .where struct name is rakib .
       int i;
     struct rakib software[3];
     for(i=0;i<4;i++)
