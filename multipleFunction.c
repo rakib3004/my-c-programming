@@ -5,6 +5,7 @@
 
  int main(void)
  {
+  // goto function 2
      function2() ;
      printf("        3\n");
 
@@ -12,6 +13,8 @@
  }
  void function2(void)
  {
+    // goto function 1
+
      function1();
      printf("    2\n      ") ;
  }
