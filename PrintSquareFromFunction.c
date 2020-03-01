@@ -6,6 +6,7 @@
 
       int sqr;
       sqr=bsse();
+    // get square value of this number from this function
       printf("Square:%d",sqr);
       return 0;
   }
@@ -16,6 +17,7 @@
       int num;
       printf("Enter a number :");
       scanf("%d",&num);
+    // return square of the number .
      return num*num;
 
   }
