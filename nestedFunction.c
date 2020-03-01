@@ -4,7 +4,7 @@
   hardware();
    int main()
    {
-
+// goto software function
        software();
        printf("respect");
 
@@ -12,6 +12,8 @@
    }
     software()
         {
+     // goto hardware function
+
         hardware();
         printf("excellence\n");
     }
