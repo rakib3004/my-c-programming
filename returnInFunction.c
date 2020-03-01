@@ -11,7 +11,10 @@ int main(void)
 }
 void education(void)
 {
+    
+    
     printf("this is printed.");
+    // return without print "this is never printed."
     return;
     printf("this is never printed.");
 
