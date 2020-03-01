@@ -4,8 +4,10 @@
   int main (void)
   {
       printf("I ");
+    // goto func1 function
       func1();
-      printf("C.");
+    
+      printf("C Programming");
 
       return 0;
   }
