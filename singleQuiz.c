@@ -4,10 +4,13 @@ int main(void)
 {
     int answer;
     printf("What is 10+14?");
+    // Ask a qustion
     scanf("%d",&answer);
     if (answer ==10+14)
+        // say rihgt 
     printf("Right!");
     else
+        //else say wrong
         printf("Wrong");
     return 0;
 }
