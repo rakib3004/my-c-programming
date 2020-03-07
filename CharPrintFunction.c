@@ -13,5 +13,6 @@ int main(void)
 
 void outchar(char ch)
 {
+    // this funcion is printing character
     printf("%c\n",ch) ;
 }
