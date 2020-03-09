@@ -7,7 +7,7 @@ int main(void)
     int choice;
 
     printf("1:feet to meters\n,2:meters to feet\n");
-
+// this code for convert distance to meter to feet or feet to meter .
     printf("enter your choice:");
 
     scanf("%d",&choice);
