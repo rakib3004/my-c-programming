@@ -12,13 +12,15 @@ int main(void)
 
     if(answer==24)
     {
+        // say he/she is right
         printf("you are right\n");
     }
     else
     {
-
         printf("sorry,you are wrong\n");
         printf("the answer is 24\n");
+        // say the right ans
+
     }
 
        return 0;
