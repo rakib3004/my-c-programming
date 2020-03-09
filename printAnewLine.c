@@ -3,8 +3,9 @@
 int main(void)
 
 {
-
-    printf("\a");
+// \n is for printing a new line
+    
+    printf("\n");
     return 0;
 
 }
