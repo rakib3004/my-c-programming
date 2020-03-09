@@ -4,6 +4,7 @@ int main(void)
    {
 
        int num,i,is_prime;
+   // enter number for checking  prime
        printf("the number to test:");
        scanf("%d",&num);
 
@@ -16,6 +17,7 @@ int main(void)
        }
      if (is_prime==1)
      {
+        // CONGRATULATIONS !!! this a prime number. 
     printf("the number is prime");
 
      }
